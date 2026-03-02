@@ -111,6 +111,50 @@ While you wait for your application to be processed, each coding lesson also inc
 
 If this is your first time working with the Azure OpenAI service, please follow this guide on how to [create and deploy an Azure OpenAI Service resource.](https://learn.microsoft.com/azure/ai-services/openai/how-to/create-resource?pivots=web-portal&WT.mc_id=academic-105485-koreyst)
 
+## Using AI Coding Assistants with VS Code
+
+While taking this course, you may want to use AI coding assistants to help you write and understand code. Here's what you need to know about using popular AI coding tools with Visual Studio Code:
+
+### GitHub Copilot
+
+[GitHub Copilot](https://github.com/features/copilot) is an AI pair programmer that helps you write code faster. It integrates seamlessly with VS Code and other IDEs.
+
+- **Free Access**: Available for verified students, teachers, and maintainers of popular open-source projects
+- **Paid Plans**: GitHub Copilot Individual ($10/month) and GitHub Copilot Business ($19/user/month)
+- **Installation**: Install the [GitHub Copilot extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) from the VS Code marketplace
+
+### Claude Code
+
+[Claude Code](https://www.anthropic.com/claude) by Anthropic is an AI coding assistant that can be integrated with VS Code to help with code generation, debugging, and understanding.
+
+**Is Claude Code Free to Use with VS Code?**
+
+No, Claude Code is not entirely free for coding workflows in VS Code. Here's what you need to know:
+
+- **Free Tier**: The free Claude plan provides access to conversational AI features through the web and mobile app, but **does not include Claude Code functionality** in VS Code or CLI tools
+- **Pro Plan ($20/month)**: This is the entry-level plan for Claude Code with VS Code integration. It includes:
+  - Regular use of Claude's coding features inside VS Code
+  - Usage limits (approximately 45 code-focused prompts per 5-hour window)
+  - Suitable for individual developers and learners
+- **Max Plan ($100-$200/month)**: For professional or high-volume development with:
+  - Much higher usage limits (5x-20x more than Pro)
+  - Priority access
+  - Better for teams or extensive coding sessions
+- **API/Pay-as-you-go**: Use Claude Code with your own Anthropic API key for token-based billing
+
+**Requirements for Claude Code in VS Code:**
+- VS Code version ≥1.98.0
+- Active Anthropic (Claude) account with Pro or higher subscription, or a valid API key
+- Sign in through the Claude extension in VS Code
+
+**Note**: For this course, Claude Code is optional. The course primarily uses Azure OpenAI Service, and you can complete all lessons without Claude Code. However, if you're interested in exploring different AI coding assistants, Claude Code can be a valuable learning tool.
+
+### Other AI Coding Tools
+
+- **Cursor**: A fork of VS Code with built-in AI features (subscription-based)
+- **Tabnine**: AI code completion tool with free and paid tiers
+- **Amazon CodeWhisperer**: Free for individual developers with AWS account
+
 ## Meet Other Learners
 
 We have created channels in our official [AI Community Discord server](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst) for meeting other learners. This is a great way to network with other like-minded entrepreneurs, builders, students, and anyone looking to level up in Generative AI.
