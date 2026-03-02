@@ -117,15 +117,15 @@ While taking this course, you may want to use AI coding assistants to help you w
 
 ### GitHub Copilot
 
-[GitHub Copilot](https://github.com/features/copilot) is an AI pair programmer that helps you write code faster. It integrates seamlessly with VS Code and other IDEs.
+[GitHub Copilot](https://github.com/features/copilot?WT.mc_id=academic-105485-koreyst) is an AI pair programmer that helps you write code faster. It integrates seamlessly with VS Code and other IDEs.
 
 - **Free Access**: Available for verified students, teachers, and maintainers of popular open-source projects
 - **Paid Plans**: GitHub Copilot Individual ($10/month) and GitHub Copilot Business ($19/user/month)
-- **Installation**: Install the [GitHub Copilot extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) from the VS Code marketplace
+- **Installation**: Install the [GitHub Copilot extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&WT.mc_id=academic-105485-koreyst) from the VS Code marketplace
 
 ### Claude Code
 
-[Claude Code](https://www.anthropic.com/claude) by Anthropic is an AI coding assistant that can be integrated with VS Code to help with code generation, debugging, and understanding.
+[Claude Code](https://www.anthropic.com/claude?WT.mc_id=academic-105485-koreyst) by Anthropic is an AI coding assistant that can be integrated with VS Code to help with code generation, debugging, and understanding.
 
 **Is Claude Code Free to Use with VS Code?**
 
