@@ -129,14 +129,14 @@ While taking this course, you may want to use AI coding assistants to help you w
 
 **Is Claude Code Free to Use with VS Code?**
 
-No, Claude Code is not entirely free for coding workflows in VS Code. Here's what you need to know:
+No, Claude Code is not entirely free for coding workflows in VS Code. Here's what you need to know (as of March 2026):
 
 - **Free Tier**: The free Claude plan provides access to conversational AI features through the web and mobile app, but **does not include Claude Code functionality** in VS Code or CLI tools
 - **Pro Plan ($20/month)**: This is the entry-level plan for Claude Code with VS Code integration. It includes:
   - Regular use of Claude's coding features inside VS Code
-  - Usage limits (approximately 45 code-focused prompts per 5-hour window)
+  - Usage limits (approximately 45 code-focused prompts per 5-hour window, though actual usage may vary based on prompt complexity)
   - Suitable for individual developers and learners
-- **Max Plan ($100-$200/month)**: For professional or high-volume development with:
+- **Max Plan ($100-$200/month)**: For professional or high-volume development. Pricing varies based on usage tier and features:
   - Much higher usage limits (5x-20x more than Pro)
   - Priority access
   - Better for teams or extensive coding sessions
@@ -148,6 +148,8 @@ No, Claude Code is not entirely free for coding workflows in VS Code. Here's wha
 - Sign in through the Claude extension in VS Code
 
 **Note**: For this course, Claude Code is optional. The course primarily uses Azure OpenAI Service, and you can complete all lessons without Claude Code. However, if you're interested in exploring different AI coding assistants, Claude Code can be a valuable learning tool.
+
+> **Important**: AI coding assistant pricing and features change frequently. Please check the official websites for the most current pricing and feature information.
 
 ### Other AI Coding Tools
 
